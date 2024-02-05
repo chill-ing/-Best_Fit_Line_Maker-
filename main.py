@@ -1,1 +1,0 @@
-print(".DS_Store")
